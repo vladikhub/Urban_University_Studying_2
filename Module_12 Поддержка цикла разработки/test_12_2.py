@@ -6,7 +6,7 @@ class TournamentTest(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.all_results = {}
-        print("dadadasdsa")
+
 
     def setUp(self):
         self.run1 = Runner("Усэйн", 10)
